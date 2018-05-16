@@ -1,0 +1,24 @@
+{
+  "name": "guldan",
+  "version": "0.0.1",
+  "description": "State Management for Vue.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LiberJe/guldan.git"
+  },
+  "keywords": [
+    "vue",
+    "state",
+    "management"
+  ],
+  "author": "JeLewine",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LiberJe/guldan/issues"
+  },
+  "homepage": "https://github.com/LiberJe/guldan#readme"
+}
